@@ -42,7 +42,7 @@ Here are some of the key projects I have worked on:
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gursaveks&show_icons=true&theme=radical" alt="Gursavek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gursaveks&show_icons=true&theme=radical&hide_border=true" alt="Gursavek's GitHub Stats" />
 </p>
 
 ---
