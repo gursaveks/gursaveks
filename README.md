@@ -36,7 +36,7 @@ Here are some of the key projects I have worked on:
 | **[Hand_Gesture_Virtual_Mouse](https://github.com/gursaveks/Hand_Gesture_Virtual_Mouse)** | A Python-based computer vision application that allows users to control mouse cursor actions using hand gestures. | Python, OpenCV, MediaPipe |
 | **[Personal-Expense-Tracker](https://github.com/gursaveks/Personal-Expense-Tracker)** | A digital tool designed to help individuals efficiently record, categorize, and keep track of their daily spending. | Python, Jupyter Notebook |
 | **[Sale-Analysis](https://github.com/gursaveks/Sale-Analysis)** | A detailed data analysis project focusing on fourth-quarter sales data to identify high-revenue states and performance metrics. | Python, Pandas, Jupyter Notebook |
-| **[UiPath-Project](https://github.com/gursaveks/UiPath-Project)** | Automation workflows built to streamline repetitive digital processes and tasks. | UiPath, RPA |
+|**[movie-recommendation-system](https://github.com/gursaveks/movie-recommendation-system)** | An intelligent system designed to suggest relevant movies to users based on content filtering or collaborative filtering techniques. | Python, Machine Learning, Pandas |
 
 ---
 
